@@ -4,7 +4,7 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 
 
 // Dichiara la funzione qui.
-//la funzione avrà in ingresso un' array di nomi
+//la funzione avrà in
 function getInitials(array){
   //dichiaro l'array iniziali
 let initials=[];
