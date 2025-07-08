@@ -4,9 +4,7 @@ const userName = 'Mario';
 
 
 // Dichiara la funzione qui.
-function greet(user){
-  return `ciao ${user}!`
-}
+const greet=(user)=>("ciao "+user)
 
 // Invoca la funzione qui e stampa il risultato in console
 //Risultato atteso se si passa 'Mario': // ciao Mario
