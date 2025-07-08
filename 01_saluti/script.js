@@ -9,7 +9,7 @@ function greet(user){
 }
 
 // Invoca la funzione qui e stampa il risultato in console
+//Risultato atteso se si passa 'Mario': // ciao Mario
 console.log(greet(userName));
 
 
-//Risultato atteso se si passa 'Mario': // ciao Mario
