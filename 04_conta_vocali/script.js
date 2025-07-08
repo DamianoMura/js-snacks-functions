@@ -5,7 +5,7 @@ const word = 'javascript';
 
 // Dichiara la funzione qui.
 //passiamo una stringa come parametro 
-function findVowels(text){
+const findVowels=(text)=>{
   let vowels="";
   //nel caso vogliamo le vocali in un array allora
   // let vowels=[];
