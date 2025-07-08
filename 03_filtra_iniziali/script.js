@@ -5,7 +5,7 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Laura", "Alessandra"];
 
 // Dichiara la funzione qui.
 //passiamo come parametri l'array e la lettera 
-function getElementByInitial(array,letter){
+const getElementByInitial=(array,letter)=>{
   //inizializzo un array vuoto che rappresenta gli elementi con l'iniziale letter
   let elements=[];
   //ciclo l'array d'ingresso
