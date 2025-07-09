@@ -10,7 +10,7 @@ const getInitials=(array)=>{
 let initials=[];
   for (let i=0; i<array.length ; i++){
 
-initials[i]=array[i].charAt(0);
+initials.push(array[i].charAt(0));
   }
   //restituiamo l'array con le iniziali
 return initials;
